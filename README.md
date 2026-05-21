@@ -1,8 +1,8 @@
 <h1 align="center">HỆ THỐNG GIÁM SÁT PHÂN LOẠI VÀ ĐẾM SỐ LƯỢNG XE</h1>
 
 <p align="center">
-  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
-  <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+  <img src="images/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="images/fitdnu_logo.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 <div align="center">
