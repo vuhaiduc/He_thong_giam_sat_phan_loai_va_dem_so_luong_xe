@@ -118,12 +118,14 @@ Ethereum Blockchain
 ## 7. 📸 Hình ảnh hệ thống.
 🚗 Dashboard hệ thống.
 <p align="center">
-  <img src="images/Dashboard.png" alt="Ảnh giao diện hệ thống" width="200"/>
-  <img src="images/Dashboard2.png" alt="Ảnh giao diện thông tin" width="170"/>
+  <img src="images/Dashboard.png" alt="Ảnh giao diện hệ thống" width="700"/>
+</p>
+<p align="center">
+<img src="images/Dashboard2.png" alt="Ảnh giao diện thông tin" width="700"/>
 </p>
 ⛓️ Blockchain Verification. 
   <p align="center">
-  <img src="images/Verify.png" alt="Ảnh giao diện xác thực" width="200"/>
+  <img src="images/Verify.png" alt="Ảnh giao diện xác thực" width="400"/>
 </p>
 
 ## 8. ⚙️ Cấu hình hệ thống
