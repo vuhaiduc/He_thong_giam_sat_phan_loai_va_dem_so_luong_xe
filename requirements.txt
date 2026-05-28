@@ -1,0 +1,9 @@
+numpy
+opencv-python
+ultralytics
+supervision
+torch
+Flask
+flask-cors
+web3
+python-dotenv
